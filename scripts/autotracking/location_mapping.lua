@@ -94,9 +94,9 @@ LOCATION_MAPPING = {
     [77800085] = { { "@Countess's Villa/Enter The Mansion/\"I've been told I've been light on my feet.\"" } },
     [77800086] = { { "@Countess's Villa/Complete Dance Cutscene/\"Doubtful.\"" } },
     --(Special) Ski Slopes
-    [77800087] = { { "@Special Missions/Glaciara, Ski Slopes/Pro Boarding Mission" } },
-    [77800088] = { { "@Special Missions/Glaciara, Ski Slopes/Villa Escape" } },
-    [77800089] = { { "@Special Missions/Glaciara, Ski Slopes/Black Diamond" } },
+    [77800087] = { { "@Special Missions/Glaciara, Ski Slopes/Villa Escape" } },
+    [77800088] = { { "@Special Missions/Glaciara, Ski Slopes/Black Diamond" } },
+    [77800089] = { { "@Special Missions/Glaciara, Ski Slopes/Go for the Gold" } },
     [77800090] = { { "@Special Missions/Glaciara, Ski Slopes/Black Diamond of Doom! Mission" } },
     [77800091] = { { "@Special Missions/Glaciara, Ski Slopes/Black Diamond of Doom! Mission" } },
     [77800092] = { { "@Special Missions/Glaciara, Ski Slopes/Pro Boarding Mission" } },

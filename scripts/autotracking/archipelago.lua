@@ -197,7 +197,7 @@ function onClear(slot_data)
 		end
 	end
     if slot_data['infobots'] then
-        local obj = Tracker:FindObjectForCode("Infobots")
+        local obj = Tracker:FindObjectForCode("Info")
         local stage = slot_data['infobots']
         if obj then
             obj.CurrentStage = stage
