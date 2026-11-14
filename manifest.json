@@ -1,0 +1,23 @@
+{"name": "Secret Agent Clank Archipelago",
+  "game_name": "Secret Agent Clank",
+  "package_version": "1.0.0",
+  "package_uid": "SAC_Tracker_SLG",
+  "author": "SomeLazyGamer",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.32.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_itemsonly": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  "versions_url": "https://raw.githubusercontent.com/SomeLazyGamer/Secret-Agent-Clank-AP-Poptracker/refs/heads/main/versions.json"
+}

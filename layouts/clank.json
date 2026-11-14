@@ -1,0 +1,77 @@
+{
+	"clank": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Clank Files",
+				"content": {
+					"type": "map",
+					"maps": ["Clank"]
+				}
+			},
+			{
+				"title": "Boltaire Museum",
+				"content": {
+					"type": "map",
+					"maps": ["Boltaire 1", "Boltaire 2"]
+				}
+			},
+			{
+				"title": "Asyanica Rooftops",
+				"content": {
+					"type": "map",
+					"maps": ["Asyanica Rooftops"]
+				}
+			},
+			{
+				"title": "Azcotal Alley",
+				"content": {
+					"type": "map",
+					"maps": ["Azcotal Alley"]
+				}
+			},
+			{
+				"title": "Gondola Ascent",
+				"content": {
+					"type": "map",
+					"maps": ["Gondola Ascent"]
+				}
+			},
+			{
+				"title": "High-Rollers Casino",
+				"content": {
+					"type": "map",
+					"maps": ["High-Rollers Casino"]
+				}
+			},
+			{
+				"title": "Venantonio Labs",
+				"content": {
+					"type": "map",
+					"maps": ["Venantonio Labs"]
+				}
+			},
+			{
+				"title": "Galactic Bolt Reserve",
+				"content": {
+					"type": "map",
+					"maps": ["Galactic Bolt Reserve"]
+				}
+			},
+			{
+				"title": "Spaceship Graveyard",
+				"content": {
+					"type": "map",
+					"maps": ["Spaceship Graveyard"]
+				}
+			},
+			{
+				"title": "Underwater Bunker",
+				"content": {
+					"type": "map",
+					"maps": ["Underwater Bunker"]
+				}
+			}
+		]
+	}
+}

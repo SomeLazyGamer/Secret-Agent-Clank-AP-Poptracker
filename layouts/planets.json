@@ -1,0 +1,120 @@
+{
+  "planets_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "ClankBolt",
+                "SpBolt",
+                "Ratchet1",
+                "GadgeAsy",
+                "ClankAsy",
+                "QwarkAsy",
+                "SpGlaciara1"
+              ],
+              [
+                "SpGlaciara2",
+                "Ratchet2",
+                "ClankRio1",
+                "ClankRio2",
+                "QwarkRio",
+                "ClankCasino",
+                "Ratchet3",
+                "SpCasino"
+              ],
+              [
+                "ClankVen",
+                "SpVen",
+                "QwarkVen",
+                "ClankFort",
+                "GadgeFort",
+                "Ratchet4",
+                "ClankGrave",
+                "QwarkGrave"
+              ],
+              [
+                "SpGrave",
+                "Ratchet5",
+                "SpHyd",
+                "QwarkHyd",
+                "GadgeHyd",
+                "ClankHyd1",
+                "ClankHyd2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_planets_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "ClankBolt",
+                "SpBolt",
+                "Ratchet1",
+                "GadgeAsy",
+                "ClankAsy",
+                "QwarkAsy",
+                "SpGlaciara1"
+              ],
+              [
+                "SpGlaciara2",
+                "Ratchet2",
+                "ClankRio1",
+                "ClankRio2",
+                "QwarkRio",
+                "ClankCasino",
+                "Ratchet3",
+                "SpCasino"
+              ],
+              [
+                "ClankVen",
+                "SpVen",
+                "QwarkVen",
+                "ClankFort",
+                "GadgeFort",
+                "Ratchet4",
+                "ClankGrave",
+                "QwarkGrave"
+              ],
+              [
+                "SpGrave",
+                "Ratchet5",
+                "SpHyd",
+                "QwarkHyd",
+                "GadgeHyd",
+                "ClankHyd1",
+                "ClankHyd2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

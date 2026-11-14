@@ -1,0 +1,94 @@
+{
+  "ratchet_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "6, 2",
+            "h_alignment": "left",
+            "item_size": "36",
+            "rows": [
+              [
+                "Shard",
+                "Mine",
+                "Rocket",
+                "RatchetPDA"
+              ],
+              [
+                "Walloper",
+                "Bee",
+                "Whip",
+                "SlimBolt"
+              ],
+              [
+                "DualLac",
+                "Pork",
+                "RYNO",
+                "Wrench"
+              ],
+              [
+                "FireBomb",
+                "TripleWave",
+                "ShockCrystal",
+                "WildBurst"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_ratchet_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "6, 2",
+            "h_alignment": "left",
+            "item_size": "36",
+            "rows": [
+              [
+                "Shard",
+                "Mine",
+                "Rocket",
+                "RatchetPDA"
+              ],
+              [
+                "Walloper",
+                "Bee",
+                "Whip",
+                "SlimBolt"
+              ],
+              [
+                "DualLac",
+                "Pork",
+                "RYNO",
+                "Wrench"
+              ],
+              [
+                "FireBomb",
+                "TripleWave",
+                "ShockCrystal",
+                "WildBurst"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

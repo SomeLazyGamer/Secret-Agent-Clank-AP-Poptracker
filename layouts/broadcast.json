@@ -1,0 +1,71 @@
+{
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 10",
+            "h_alignment": "left",
+            "item_size": "36",
+            "rows": [
+              [
+                "Tiearang",
+                "Tangle",
+                "Blackout",
+                "Monocle",
+                "Kick",
+                "BoltGrab"
+              ],
+              [
+                "Cufflink",
+                "Umbrella",
+                "Boots",
+                "Shades",
+                "Hotfoot",
+                "Hypno"
+              ],
+              [
+                "Blowtorch",
+                "Knux",
+                "Omnikey",
+                "ClankPDA",
+                "Beta",
+                "RacPack"
+              ]
+            ]
+          },
+          {
+            "type": "layout",
+            "key": "broadcast_ratchet_grid"
+          },
+          {
+            "type": "layout",
+            "key": "broadcast_extra_grid"
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "layout",
+            "key": "broadcast_planets_grid"
+          },
+          {
+            "type": "layout",
+            "key": "broadcast_mod_grid"
+          }
+        ]
+      }
+    ]
+  }
+}

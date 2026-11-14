@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Case Files",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Menu.png"
+  },
+  {
+    "name": "Ratchet",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Ratchet.png"
+  },
+  {
+    "name": "Clank",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Clank.png"
+  },
+  {
+    "name": "Gadgebots",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Gadgebots.png"
+  },
+  {
+    "name": "Qwark",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Qwark.png"
+  },
+  {
+    "name": "Special Missions",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Special.png"
+  },
+  {
+    "name": "Boltaire 1",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Boltaire_Museum_map_1.png"
+  },
+  {
+    "name": "Boltaire 2",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Boltaire_Museum_map_2.png"
+  },
+  {
+    "name": "Boltaire Gem Wing",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Boltaire_Museum_map_3.png"
+  },
+  {
+    "name": "Rooftop Deathtrap",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Skyline_rooftops_map_1.png"
+  },
+  {
+    "name": "Asyanica Rooftops",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Skyline_rooftops_map_2.png"
+  },
+  {
+    "name": "Countess's Villa",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Countess's_villa_map.png"
+  },
+  {
+    "name": "Azcotal Alley",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Azcotal_Alley_map.png"
+  },
+  {
+    "name": "Gondola Ascent",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mountainside_ascent_map.png"
+  },
+  {
+    "name": "High-Rollers Casino",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Le_Paradis_Des_Tricheurs_Casino_map.png"
+  },
+  {
+    "name": "Venantonio Labs",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Secret_laboratory_map.png"
+  },
+  {
+    "name": "Galactic Bolt Reserve",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Galactic_Bolt_Reserve_map.png"
+  },
+  {
+    "name": "Inside the A-Eye",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mine_shafts_map.png"
+  },
+  {
+    "name": "Spaceship Graveyard",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Spaceship_graveyard_map_1.png"
+  },
+  {
+    "name": "Saint Qwark",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Spaceship_graveyard_map_2.png"
+  },
+  {
+    "name": "Bulkhead Lock",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Main_bulkhead_lock_map.png"
+  },
+  {
+    "name": "Underwater Bunker",
+    "location_size": 20,
+    "location_border_thickness": 2,
+    "img": "images/maps/Underwater_base_map.png"
+  }
+]

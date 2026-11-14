@@ -1,0 +1,21 @@
+{
+	"qwark": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Qwark Files",
+				"content": {
+					"type": "map",
+					"maps": ["Qwark"]
+				}
+			},
+			{
+				"title": "Saint Qwark",
+				"content": {
+					"type": "map",
+					"maps": ["Saint Qwark"]
+				}
+			}
+		]
+	}
+}

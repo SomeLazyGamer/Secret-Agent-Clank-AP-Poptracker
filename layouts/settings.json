@@ -1,0 +1,45 @@
+{
+  "settings_popup": {
+    "type": "group",
+    "margin": "0,0",
+    "header": "Archipelago Settings",
+    "background": "#060612",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "item_size": "323, 39",
+        "rows": [
+          [
+            "Info",
+            "Missions"
+          ],
+          [
+            "NGP",
+            "Cutscenes"
+          ],
+          [
+            "ProgChall",
+            "Skills"
+          ],
+          [
+            "ProgWeap",
+            "RandomSkills"
+          ],
+          [
+            "ProgWrench",
+            "WeapLVL"
+          ],
+          [
+            "ClankNano",
+            "RatchetNano"
+          ],
+          [
+            "KeyCode"
+          ]
+        ]
+      }
+    ]
+  }
+}

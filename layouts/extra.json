@@ -1,0 +1,68 @@
+{
+  "extra_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "RedKey"
+              ],
+              [
+                "BlueKey"
+              ],
+              [
+                "YellowKey"
+              ],
+              [
+                "ProgNG"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_extra_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "RedKey"
+              ],
+              [
+                "BlueKey"
+              ],
+              [
+                "YellowKey"
+              ],
+              [
+                "ProgNG"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

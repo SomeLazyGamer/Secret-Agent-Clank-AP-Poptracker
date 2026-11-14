@@ -1,0 +1,28 @@
+{
+	"special": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Speiclal Files",
+				"content": {
+					"type": "map",
+					"maps": ["Special Missions"]
+				}
+			},
+			{
+				"title": "Boltaire Gem Wing",
+				"content": {
+					"type": "map",
+					"maps": ["Boltaire Gem Wing"]
+				}
+			},
+			{
+				"title": "Countess's Villa",
+				"content": {
+					"type": "map",
+					"maps": ["Countess's Villa"]
+				}
+			}
+		]
+	}
+}

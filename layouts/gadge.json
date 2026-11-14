@@ -1,0 +1,35 @@
+{
+	"gadge": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Gadgebot Files",
+				"content": {
+					"type": "map",
+					"maps": ["Gadgebots"]
+				}
+			},
+			{
+				"title": "Rooftop Deathtrap",
+				"content": {
+					"type": "map",
+					"maps": ["Rooftop Deathtrap"]
+				}
+			},
+			{
+				"title": "Inside the A-Eye",
+				"content": {
+					"type": "map",
+					"maps": ["Inside the A-Eye"]
+				}
+			},
+			{
+				"title": "Bulkhead Lock",
+				"content": {
+					"type": "map",
+					"maps": ["Bulkhead Lock"]
+				}
+			}
+		]
+	}
+}

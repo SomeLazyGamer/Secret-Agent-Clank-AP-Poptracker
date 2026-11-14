@@ -1,0 +1,14 @@
+{
+	"ratchet": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Ratchet Files",
+				"content": {
+					"type": "map",
+					"maps": ["Ratchet"]
+				}
+			}
+		]
+	}
+}

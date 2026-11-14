@@ -1,0 +1,92 @@
+{
+  "mod_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "Shard1",
+                "Shard2",
+                "Walloper1",
+                "Walloper2"
+              ],
+              [
+                "DualLac1",
+                "DualLac2",
+                "Mine1",
+                "Mine2"
+              ],
+              [
+                "Bee1",
+                "Bee2",
+                "Pork1",
+                "Pork2"
+              ],
+              [
+                "Rocket1",
+                "Rocket2",
+                "Whip1",
+                "Whip2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_mod_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "item_size": "36",
+            "rows": [
+              [
+                "Shard1",
+                "Shard2",
+                "Walloper1",
+                "Walloper2"
+              ],
+              [
+                "DualLac1",
+                "DualLac2",
+                "Mine1",
+                "Mine2"
+              ],
+              [
+                "Bee1",
+                "Bee2",
+                "Pork1",
+                "Pork2"
+              ],
+              [
+                "Rocket1",
+                "Rocket2",
+                "Whip1",
+                "Whip2"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

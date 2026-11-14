@@ -1,0 +1,14 @@
+{
+	"checks": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Overview",
+				"content": {
+					"type": "map",
+					"maps": ["Case Files"]
+				}
+			}
+		]
+	}
+}

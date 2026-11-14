@@ -1,0 +1,1821 @@
+[
+  {
+    "name": "Tie-A-Rang",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/tiearang.png",
+    "codes": "Tiearang"
+  },
+  {
+    "name": "Cufflink Bomb",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/cufflink.png",
+    "codes": "Cufflink"
+  },
+  {
+    "name": "Blowtorch Briefcase",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/blowtorch.png",
+    "codes": "Blowtorch"
+  },
+  {
+    "name": "Tanglevine Carnation",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/tangle.png",
+    "codes": "Tangle"
+  },
+  {
+    "name": "Thunderstorm Umbrella",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/umbrella.png",
+    "codes": "Umbrella"
+  },
+  {
+    "name": "Holo-Knuckles",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/clank/knux.png",
+    "codes": "Knux"
+  },
+  {
+    "name": "Blackout Pen",
+    "type": "toggle",
+    "img": "images/items/clank/blackout.png",
+    "codes": "Blackout"
+  },
+  {
+    "name": "Hypno-Watch",
+    "type": "toggle",
+    "img": "images/items/clank/hypno.png",
+    "codes": "Hypno"
+  },
+  {
+    "name": "Holo-Monocle",
+    "type": "toggle",
+    "img": "images/items/clank/monocle.png",
+    "codes": "Monocle"
+  },
+  {
+    "name": "Agency PDA",
+    "type": "toggle",
+    "img": "images/items/clank/ClankPDA.png",
+    "codes": "ClankPDA"
+  },
+  {
+    "name": "Therm-Optic Shades",
+    "type": "toggle",
+    "img": "images/items/clank/shades.png",
+    "codes": "Shades"
+  },
+  {
+    "name": "Jet Boots",
+    "type": "toggle",
+    "img": "images/items/clank/boots.png",
+    "codes": "Boots"
+  },
+  {
+    "name": "Omni-Key 5000",
+    "type": "toggle",
+    "img": "images/items/clank/omnikey.png",
+    "codes": "Omnikey"
+  },
+  {
+    "name": "Bolt Grabber",
+    "type": "toggle",
+    "img": "images/items/clank/boltgrab.png",
+    "codes": "BoltGrab"
+  },
+  {
+    "name": "Clank Fu Kick",
+    "type": "toggle",
+    "img": "images/items/clank/kick.png",
+    "codes": "Kick"
+  },
+  {
+    "name": "Clank Fu Hot Foot",
+    "type": "toggle",
+    "img": "images/items/clank/hotfoot.png",
+    "codes": "Hotfoot"
+  },
+  {
+    "name": "Clank Fu Hot Foot 2.1",
+    "type": "toggle",
+    "img": "images/items/clank/beta.png",
+    "codes": "Beta"
+  },
+  {
+    "name": "Shard Gun",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Shard.png",
+    "codes": "Shard"
+  },
+  {
+    "name": "Walloper",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Walloper.png",
+    "codes": "Walloper"
+  },
+  {
+    "name": "Dual Lacerators",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/DualLac.png",
+    "codes": "DualLac"
+  },
+  {
+    "name": "Mine Launcher",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Mine.png",
+    "codes": "Mine"
+  },
+  {
+    "name": "Bee Mine Mk. II",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Bee.png",
+    "codes": "Bee"
+  },
+  {
+    "name": "Pork Bomb Gun",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Pork.png",
+    "codes": "Pork"
+  },
+  {
+    "name": "Shock Rocket",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Rocket.png",
+    "codes": "Rocket"
+  },
+  {
+    "name": "Plasma Whip",
+    "type": "consumable",
+    "max_quantity": 8,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/Whip.png",
+    "codes": "Whip"
+  },
+  {
+    "name": "RYNO",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/ratchet/RYNO.png",
+    "codes": "RYNO"
+  },
+  {
+    "name": "Gadgetron PDA",
+    "type": "toggle",
+    "img": "images/items/ratchet/RatchetPDA.png",
+    "codes": "RatchetPDA"
+  },
+  {
+    "name": "Slim Cognito's Bolt Extractor",
+    "type": "toggle",
+    "img": "images/items/ratchet/SlimBolt.png",
+    "codes": "SlimBolt"
+  },
+  {
+    "name": "OmniWrench 10K",
+    "type": "toggle",
+    "img": "images/items/ratchet/Wrench.png",
+    "codes": "Wrench"
+  },
+  {
+    "name": "Fire-Bomb Wrench",
+    "allow_disabled": false,
+    "type": "progressive",
+    "stages": [
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/FireBomb.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/FireBomb.png"
+      },
+      {
+    "codes": "FireBomb",
+    "img": "images/items/ratchet/FireBomb.png"
+      }
+    ]
+  },
+  {
+    "name": "Triple Wave Wrench",
+    "allow_disabled": false,
+    "type": "progressive",
+    "stages": [
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/TripleWave.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/TripleWave.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/TripleWave.png"
+      },
+      {
+    "codes": "TripleWave",
+    "img": "images/items/ratchet/TripleWave.png"
+      }
+    ]
+  },
+  {
+    "name": "Shock Crystal Wrench",
+    "allow_disabled": false,
+    "type": "progressive",
+    "stages": [
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/ShockCrystal.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/ShockCrystal.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/ShockCrystal.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/ShockCrystal.png"
+      },
+      {
+    "codes": "ShockCrystal",
+    "img": "images/items/ratchet/ShockCrystal.png"
+      }
+    ]
+  },
+  {
+    "name": "Wild Burst Wrench",
+    "allow_disabled": false,
+    "type": "progressive",
+    "stages": [
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/WildBurst.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/WildBurst.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/WildBurst.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/WildBurst.png"
+      },
+      {
+        "img_mods": "@disabled",
+    "img": "images/items/ratchet/WildBurst.png"
+      },
+      {
+    "codes": "WildBurst",
+    "img": "images/items/ratchet/WildBurst.png"
+      }
+    ]
+  },
+  {
+    "name": "Red Keycard",
+    "type": "toggle",
+    "img": "images/items/extra/RedKey.png",
+    "codes": "RedKey"
+  },
+  {
+    "name": "Blue Keycard",
+    "type": "toggle",
+    "img": "images/items/extra/BlueKey.png",
+    "codes": "BlueKey"
+  },
+  {
+    "name": "Yellow Keycard",
+    "type": "toggle",
+    "img": "images/items/extra/YellowKey.png",
+    "codes": "YellowKey"
+  },
+  {
+    "name": "Ratchet Pack",
+    "type": "toggle",
+    "img": "images/items/extra/RacPack.png",
+    "codes": "RacPack"
+  },
+  {
+    "name": "Progressive Challenge Mode",
+    "type": "progressive",
+    "stages": [
+      {
+    "codes": "ProgNG,ProgNG1",
+    "img": "images/items/extra/R1.png"
+      },
+      {
+    "codes": "ProgNG,ProgNG2",
+    "img": "images/items/extra/R2.png"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Boltaire Museum",
+    "type": "toggle",
+    "img": "images/items/planet/ClankBolt.png",
+    "codes": "ClankBolt, NanoClank"
+  },
+  {
+    "name": "Case File (Special Missions): Boltaire Gem Wing",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/SpBolt.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpBolt.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "SpBolt",
+    "img": "images/items/planet/SpBolt.png"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Ratchet): Max-Security Cells",
+    "type": "toggle",
+    "img": "images/items/planet/Ratchet1.png",
+    "codes": "Ratchet1, NanoRat"
+  },
+  {
+    "name": "Case File (Ratchet): The Mess Hall",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/Ratchet2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet2.png",
+    "codes": "Ratchet2, NanoRat"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Ratchet): The Exercise Yard",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/Ratchet3.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet3.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet3.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet3.png",
+    "codes": "Ratchet3, NanoRat"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Ratchet): The Showers",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/Ratchet4.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet4.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet4.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet4.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet4.png",
+    "codes": "Ratchet4, NanoRat"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Ratchet): Prison Breakout!",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/Ratchet5.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet5.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet5.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet5.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet5.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/Ratchet5.png",
+    "codes": "Ratchet5, NanoRat"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Gadgetbots): Rooftop Deathtrap",
+    "type": "toggle",
+    "img": "images/items/planet/GadgeAsy.png",
+    "codes": "GadgeAsy"
+  },
+  {
+    "name": "Case File (Clank): Asyanica Rooftop",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/ClankAsy.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankAsy.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankAsy.png",
+    "codes": "ClankAsy, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Qwark): Larger Than Life",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/QwarkAsy.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkAsy.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkAsy.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkAsy.png",
+    "codes": "QwarkAsy"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Special Missions): Countess's Villa",
+    "type": "toggle",
+    "img": "images/items/planet/SpGlaciara1.png",
+    "codes": "SpGlaciara1"
+  },
+  {
+    "name": "Case File (Special Missions): Glaciara, Ski Slopes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/SpGlaciara2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpGlaciara2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpGlaciara2.png",
+    "codes": "SpGlaciara2"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Azcotal Alley",
+    "type": "toggle",
+    "img": "images/items/planet/ClankRio1.png",
+    "codes": "ClankRio1, NanoClank"
+  },
+  {
+    "name": "Case File (Clank): Gondola Ascent",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/ClankRio2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankRio2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankRio2.png",
+    "codes": "ClankRio2, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Qwark): Suck and Jive",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/QwarkRio.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkRio.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkRio.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkRio.png",
+    "codes": "QwarkRio"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): High-Rollers Casino",
+    "type": "toggle",
+    "img": "images/items/planet/ClankCasino.png",
+    "codes": "ClankCasino, NanoClank"
+  },
+  {
+    "name": "Case File (Special Missions): High Stakes Room",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/SpCasino.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpCasino.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpCasino.png",
+    "codes": "SpCasino"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Venantonio Labs",
+    "type": "toggle",
+    "img": "images/items/planet/ClankVen.png",
+    "codes": "ClankVen, NanoClank"
+  },
+  {
+    "name": "Case File (Special Missions): Venantonio Canals",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/SpVen.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpVen.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpVen.png",
+    "codes": "SpVen"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Qwark): Madam Butterqwark",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/QwarkVen.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkVen.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkVen.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkVen.png",
+    "codes": "QwarkVen"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Galactic Bolt Reserve",
+    "type": "toggle",
+    "img": "images/items/planet/ClankFort.png",
+    "codes": "ClankFort, NanoClank"
+  },
+  {
+    "name": "Case File (Gadgetbots): Inside the A-Eye",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/GadgeFort.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/GadgeFort.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/GadgeFort.png",
+    "codes": "GadgeFort"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Spaceship Graveyard",
+    "type": "toggle",
+    "img": "images/items/planet/ClankGrave.png",
+    "codes": "ClankGrave, NanoClank"
+  },
+  {
+    "name": "Case File (Qwark): Saint Qwark",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/QwarkGrave.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkGrave.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkGrave.png",
+    "codes": "QwarkGrave"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Special Missions): The Quasar Fields",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/SpGrave.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpGrave.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpGrave.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/SpGrave.png",
+    "codes": "SpGrave"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Special Missions): Dam's Edge, Hydrano",
+    "type": "toggle",
+    "img": "images/items/planet/SpHyd.png",
+    "codes": "SpHyd"
+  },
+  {
+    "name": "Case File (Qwark): A Fiction Full Of Dollars",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/QwarkHyd.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkHyd.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/QwarkHyd.png",
+    "codes": "QwarkHyd"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Gadgetbots): Bulkhead Lock",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/GadgeHyd.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/GadgeHyd.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/GadgeHyd.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/GadgeHyd.png",
+    "codes": "GadgeHyd"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Underwater Bunker",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/ClankHyd1.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd1.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd1.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd1.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd1.png",
+    "codes": "ClankHyd1, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Case File (Clank): Klunk's Lair",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+        "img_mods": "@disabled"
+      },
+      {
+    "img": "images/items/planet/ClankHyd2.png",
+    "codes": "ClankHyd2"
+      }
+    ]
+  },
+  {
+    "name": "Shard Gun: Charge-Up Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Shard1.png",
+    "codes": "Shard1"
+  },
+  {
+    "name": "Walloper: Lightning Speed Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Walloper1.png",
+    "codes": "Walloper1"
+  },
+  {
+    "name": "Dual Lacerators: Hunter Mod",
+    "type": "toggle",
+    "img": "images/items/mods/DualLac1.png",
+    "codes": "DualLac1"
+  },
+  {
+    "name": "Mine Launcher: Ordnance Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Mine1.png",
+    "codes": "Mine1"
+  },
+  {
+    "name": "Bee Mine Mk. II: Explosive Nature Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Bee1.png",
+    "codes": "Bee1"
+  },
+  {
+    "name": "Pork Bomb Gun: War Pigs Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Pork1.png",
+    "codes": "Pork1"
+  },
+  {
+    "name": "Shock Rocket: Static Charge Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Rocket1.png",
+    "codes": "Rocket1"
+  },
+  {
+    "name": "Plasma Whip: Fire Snake Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Whip1.png",
+    "codes": "Whip1"
+  },
+  {
+    "name": "Shard Gun: Ice Halo Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Shard2.png",
+    "codes": "Shard2"
+  },
+  {
+    "name": "Walloper: Earthquake Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Walloper2.png",
+    "codes": "Walloper2"
+  },
+  {
+    "name": "Dual Lacerators: Seeker Mod",
+    "type": "toggle",
+    "img": "images/items/mods/DualLac2.png",
+    "codes": "DualLac2"
+  },
+  {
+    "name": "Mine Launcher: Persistence Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Mine2.png",
+    "codes": "Mine2"
+  },
+  {
+    "name": "Bee Mine Mk. II: Killer Honey Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Bee2.png",
+    "codes": "Bee2"
+  },
+  {
+    "name": "Pork Bomb Gun: Tasty Pigs Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Pork2.png",
+    "codes": "Pork2"
+  },
+  {
+    "name": "Shock Rocket: Taser Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Rocket2.png",
+    "codes": "Rocket2"
+  },
+  {
+    "name": "Plasma Whip: Flame Trails Mod",
+    "type": "toggle",
+    "img": "images/items/mods/Whip2.png",
+    "codes": "Whip2"
+  },
+  {
+    "name": "Goals",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Goal,GoalKlunk"
+      },
+      {
+        "codes": "Goal,GoalOpera",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalClank",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalRatchet",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalQwark",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalAlien",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalChalice",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalAny",
+          "inherit_codes": false
+      },
+      {
+        "codes": "Goal,GoalPick",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Klunk",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,KlunkOff"
+      },
+      {
+        "codes": "Pick,PickKlunk"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Opera",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,OperaOff"
+      },
+      {
+        "codes": "Pick,PickOpera"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Gadgebot",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,GadgeOff"
+      },
+      {
+        "codes": "Pick,PickGadge"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Ratchet",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,RatchetOff"
+      },
+      {
+        "codes": "Pick,PickRatchet"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Qwark",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,QwarkOff"
+      },
+      {
+        "codes": "Pick,PickQwark"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Alien",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,AlienOff"
+      },
+      {
+        "codes": "Pick,PickAlien"
+      }
+    ]
+  },
+  {
+    "name": "Pick&Mix Chalice",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "codes": "Pick,ChaliceOff"
+      },
+      {
+        "codes": "Pick,PickChalice"
+      }
+    ]
+  },
+  {
+    "name": "Infobots",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/InfoCases.png",
+          "codes": "Info,InfoCases",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/InfoProgPlanets.png",
+          "codes": "Info,InfoProgPlanet",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Clank Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false,
+          "codes": "ClankChecks,ClankChecksOff"
+      },
+      {
+          "inherit_codes": false,
+        "codes": "ClankChecks,ClankChecksOn"
+      }
+    ]
+  },
+  {
+    "name": "Ratchet Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false,
+          "codes": "RatchetChecks,RatchetChecksOff"
+      },
+      {
+          "inherit_codes": false,
+        "codes": "RatchetChecks,RatchetChecksOn"
+      }
+    ]
+  },
+  {
+    "name": "Gadgebot Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false,
+          "codes": "GadgeChecks,GadgeChecksOff"
+      },
+      {
+          "inherit_codes": false,
+        "codes": "GadgeChecks,GadgeChecksOn"
+      }
+    ]
+  },
+  {
+    "name": "Qwark Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false,
+          "codes": "QwarkChecks,QwarkChecksOff"
+      },
+      {
+          "inherit_codes": false,
+        "codes": "QwarkChecks,QwarkChecksOn"
+      }
+    ]
+  },
+  {
+    "name": "Special Mission Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false,
+          "codes": "SpecialChecks,SpecialChecksOff"
+      },
+      {
+          "inherit_codes": false,
+        "codes": "SpecialChecks,SpecialChecksOn"
+      }
+    ]
+  },
+  {
+    "name": "New Game +",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/NGPOff.png",
+          "name": "Challenge Mode - Off",
+          "codes": "NGP,NGPOff"
+      },
+      {
+        "img": "images/items/settings/NGP1.png",
+        "name": "Challenge Mode - R:1",
+        "inherit_codes": false,
+        "codes": "NGP,NGP1"
+      },
+      {
+        "img": "images/items/settings/NGP2.png",
+        "name": "Challenge Mode - R:2",
+        "codes": "NGP,NGP2"
+      }
+    ]
+  },
+  {
+    "name": "Progressive Challenge Mode",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgChallOff.png",
+          "name": "Progressive Challenge Mode - Off",
+          "codes": "ProgChall,ProgChallOff"
+      },
+      {
+        "img": "images/items/settings/ProgChallOn.png",
+        "name": "Progressive Challenge Mode - On",
+        "codes": "ProgChall,ProgChallOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Progressive Weapons",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ProgWeapOff.png",
+          "name": "Progressive Weapons - Off",
+          "inherit_codes": false,
+          "codes": "ProgWeap,ProgWeapOff"
+      },
+      {
+        "img": "images/items/settings/ProgWeapOn.png",
+        "name": "Progressive Weapons - On",
+        "inherit_codes": false,
+        "codes": "ProgWeap,ProgWeapOn"
+      }
+    ]
+  },
+  {
+    "name": "Progressive Wrench",
+    "allow_disabled": false,
+    "type": "progressive",
+    "loop": false,
+    "stages": [
+      {
+          "img": "images/items/settings/WrenchSetOff.png",
+          "name": "Progressive Wrench - Off",
+          "codes": "ProgWrench,ProgWrenchOff",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/WrenchSetAll.png",
+        "name": "Progressive Wrench - All Progressive",
+        "codes": "ProgWrench,ProgWrenchAll",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/WrenchSetStart.png",
+        "name": "Progressive Wrench - Start With Wrench",
+        "codes": "ProgWrench,ProgWrenchStart",
+          "inherit_codes": false
+      },
+      {
+          "img": "images/items/settings/WrenchSetItems.png",
+        "name": "Progressive Wrench - Wrench Items",
+        "codes": "ProgWrench,ProgWrenchItems",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Mission Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/MissionsOff.png",
+          "name": "Mission Checks - Level Completion",
+          "codes": "Missions,MissionsOff"
+      },
+      {
+        "img": "images/items/settings/MissionsOn.png",
+        "name": "Mission Checks - All On",
+        "codes": "Missions,MissionsOn"
+      }
+    ]
+  },
+  {
+    "name": "Cutscene Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/CutscenesOff.png",
+          "name": "Cutscene Checks - Off",
+          "codes": "Cutscenes,CutscenesOff"
+      },
+      {
+        "img": "images/items/settings/CutscenesOn.png",
+        "name": "Cutscene Checks - On",
+        "codes": "Cutscenes,CutscenesOn"
+      }
+    ]
+  },
+  {
+    "name": "Skill Points",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/SkillOff.png",
+          "name": "Skill Points - Off",
+          "codes": "Skills,SkillsOff"
+      },
+      {
+        "img": "images/items/settings/SkillEasy.png",
+        "name": "Skill Points - Easy",
+        "codes": "Skills,SkillsEasy",
+          "inherit_codes": false
+      },
+      {
+        "img": "images/items/settings/SkillNorm.png",
+        "name": "Skill Points - Normal",
+        "codes": "Skills,SkillsNorm",
+          "inherit_codes": false
+      },
+      {
+        "img": "images/items/settings/SkillOn.png",
+        "name": "Skill Points - All On",
+        "codes": "Skills,SkillsOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Random Skill Points",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/RandomSkillsOff.png",
+          "name": "Random Skill Points - Off",
+          "codes": "RandomSkills,RandomSkillsOff",
+          "inherit_codes": false
+      },
+      {
+        "img": "images/items/settings/RandomSkillsOn.png",
+        "name": "Random Skill Points - On",
+        "codes": "RandomSkills,RandomSkillsOn",
+          "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Weapon Level Checks",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/WeapLVLOff.png",
+          "name": "Weapon Level Checks - Off",
+          "inherit_codes": false,
+          "codes": "WeapLVL,WeapLVLOff"
+      },
+      {
+        "img": "images/items/settings/WeapLVLMax.png",
+        "name": "Weapon Level Checks - V4 Only",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVLMax"
+      },
+      {
+        "img": "images/items/settings/WeapLVLMaxNG.png",
+        "name": "Weapon Level Checks - V8 Only",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVLMaxNG"
+      },
+      {
+        "img": "images/items/settings/WeapLVL48.png",
+        "name": "Weapon Level Checks - V4 & V8",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVL48"
+      },
+      {
+        "img": "images/items/settings/WeapLVLOn.png",
+        "name": "Weapon Level Checks - All On",
+          "inherit_codes": false,
+        "codes": "WeapLVL,WeapLVLOn"
+      }
+    ]
+  },
+  {
+    "name": "Clank Nanotech",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/ClankNanoOff.png",
+          "name": "Clank Nanotech - Off",
+          "codes": "ClankNano,ClankNanoOff"
+      },
+      {
+        "img": "images/items/settings/ClankNanoOn.png",
+        "name": "Clank Nanotech - On",
+        "codes": "ClankNano,ClankNanoOn"
+      }
+    ]
+  },
+  {
+    "name": "Ratchet Nanotech",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/RatchetNanoOff.png",
+          "name": "Ratchet Nanotech - Off",
+          "codes": "RatchetNano,RatchetNanoOff"
+      },
+      {
+        "img": "images/items/settings/RatchetNanoOn.png",
+        "name": "Ratchet Nanotech - On",
+        "codes": "RatchetNano,RatchetNanoOn"
+      }
+    ]
+  },
+  {
+    "name": "Stealth Takedown Checks",
+    "type": "consumable",
+    "max_quantity": 10,
+    "increment": 1,
+     "decrement": 1,
+    "initial_quantity": 0,
+    "codes": "StealthChecks"
+  },
+  {
+    "name": "Keycards & Alien Codes",
+    "type": "progressive",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+          "img": "images/items/settings/KeyCodeOff.png",
+          "name": "Keycards & Alien Codes - Off",
+          "codes": "KeyCode,KeyCodeOff"
+      },
+      {
+        "img": "images/items/settings/KeyCodeOn.png",
+        "name": "Keycards & Alien Codes - On",
+        "codes": "KeyCode,KeyCodeOn"
+      }
+    ]
+  },
+  {
+    "name": "Skill Point 1",
+    "type": "toggle",
+    "codes": "SP1"
+  },
+  {
+    "name": "Skill Point 2",
+    "type": "toggle",
+    "codes": "SP2"
+  },
+  {
+    "name": "Skill Point 3",
+    "type": "toggle",
+    "codes": "SP3"
+  },
+  {
+    "name": "Skill Point 4",
+    "type": "toggle",
+    "codes": "SP4"
+  },
+  {
+    "name": "Skill Point 5",
+    "type": "toggle",
+    "codes": "SP5"
+  },
+  {
+    "name": "Skill Point 6",
+    "type": "toggle",
+    "codes": "SP6"
+  },
+  {
+    "name": "Skill Point 7",
+    "type": "toggle",
+    "codes": "SP7"
+  },
+  {
+    "name": "Skill Point 8",
+    "type": "toggle",
+    "codes": "SP8"
+  },
+  {
+    "name": "Skill Point 9",
+    "type": "toggle",
+    "codes": "SP9"
+  },
+  {
+    "name": "Skill Point 10",
+    "type": "toggle",
+    "codes": "SP10"
+  },
+  {
+    "name": "Skill Point 11",
+    "type": "toggle",
+    "codes": "SP11"
+  },
+  {
+    "name": "Skill Point 12",
+    "type": "toggle",
+    "codes": "SP12"
+  },
+  {
+    "name": "Skill Point 13",
+    "type": "toggle",
+    "codes": "SP13"
+  },
+  {
+    "name": "Skill Point 14",
+    "type": "toggle",
+    "codes": "SP14"
+  },
+  {
+    "name": "Skill Point 15",
+    "type": "toggle",
+    "codes": "SP15"
+  },
+  {
+    "name": "Skill Point 16",
+    "type": "toggle",
+    "codes": "SP16"
+  },
+  {
+    "name": "Skill Point 17",
+    "type": "toggle",
+    "codes": "SP17"
+  },
+  {
+    "name": "Skill Point 18",
+    "type": "toggle",
+    "codes": "SP18"
+  },
+  {
+    "name": "Skill Point 19",
+    "type": "toggle",
+    "codes": "SP19"
+  },
+  {
+    "name": "Skill Point 20",
+    "type": "toggle",
+    "codes": "SP20"
+  },
+  {
+    "name": "Skill Point 21",
+    "type": "toggle",
+    "codes": "SP21"
+  },
+  {
+    "name": "Skill Point 22",
+    "type": "toggle",
+    "codes": "SP22"
+  },
+  {
+    "name": "Skill Point 23",
+    "type": "toggle",
+    "codes": "SP23"
+  },
+  {
+    "name": "Skill Point 24",
+    "type": "toggle",
+    "codes": "SP24"
+  },
+  {
+    "name": "Skill Point 25",
+    "type": "toggle",
+    "codes": "SP25"
+  },
+  {
+    "name": "Skill Point 26",
+    "type": "toggle",
+    "codes": "SP26"
+  },
+  {
+    "name": "Skill Point 27",
+    "type": "toggle",
+    "codes": "SP27"
+  },
+  {
+    "name": "Skill Point 28",
+    "type": "toggle",
+    "codes": "SP28"
+  },
+  {
+    "name": "Skill Point 29",
+    "type": "toggle",
+    "codes": "SP29"
+  },
+  {
+    "name": "Skill Point 30",
+    "type": "toggle",
+    "codes": "SP30"
+  },
+  {
+    "name": "Skill Point 31",
+    "type": "toggle",
+    "codes": "SP31"
+  },
+  {
+    "name": "Skill Point 32",
+    "type": "toggle",
+    "codes": "SP32"
+  },
+  {
+    "name": "Skill Point 33",
+    "type": "toggle",
+    "codes": "SP33"
+  },
+  {
+    "name": "Skill Point 34",
+    "type": "toggle",
+    "codes": "SP34"
+  },
+  {
+    "name": "Skill Point 35",
+    "type": "toggle",
+    "codes": "SP35"
+  },
+  {
+    "name": "Skill Point 36",
+    "type": "toggle",
+    "codes": "SP36"
+  },
+  {
+    "name": "Skill Point 37",
+    "type": "toggle",
+    "codes": "SP37"
+  },
+  {
+    "name": "Skill Point 38",
+    "type": "toggle",
+    "codes": "SP38"
+  },
+  {
+    "name": "Skill Point 39",
+    "type": "toggle",
+    "codes": "SP39"
+  },
+  {
+    "name": "Skill Point 40",
+    "type": "toggle",
+    "codes": "SP40"
+  },
+  {
+    "name": "Skill Point 41",
+    "type": "toggle",
+    "codes": "SP41"
+  },
+  {
+    "name": "Skill Point 42",
+    "type": "toggle",
+    "codes": "SP42"
+  },
+  {
+    "name": "Skill Point 43",
+    "type": "toggle",
+    "codes": "SP43"
+  },
+  {
+    "name": "Skill Point 44",
+    "type": "toggle",
+    "codes": "SP44"
+  },
+  {
+    "name": "Skill Point 45",
+    "type": "toggle",
+    "codes": "SP45"
+  },
+  {
+    "name": "Skill Point 46",
+    "type": "toggle",
+    "codes": "SP46"
+  },
+  {
+    "name": "Skill Point 47",
+    "type": "toggle",
+    "codes": "SP47"
+  },
+  {
+    "name": "Skill Point 48",
+    "type": "toggle",
+    "codes": "SP48"
+  },
+  {
+    "name": "Skill Point 49",
+    "type": "toggle",
+    "codes": "SP49"
+  },
+  {
+    "name": "Skill Point 50",
+    "type": "toggle",
+    "codes": "SP50"
+  },
+  {
+    "name": "Skill Point 51",
+    "type": "toggle",
+    "codes": "SP51"
+  },
+  {
+    "name": "Skill Point 52",
+    "type": "toggle",
+    "codes": "SP52"
+  },
+  {
+    "name": "Skill Point 53",
+    "type": "toggle",
+    "codes": "SP53"
+  },
+  {
+    "name": "Skill Point 54",
+    "type": "toggle",
+    "codes": "SP54"
+  },
+  {
+    "name": "Skill Point 55",
+    "type": "toggle",
+    "codes": "SP55"
+  },
+  {
+    "name": "Skill Point 56",
+    "type": "toggle",
+    "codes": "SP56"
+  },
+  {
+    "name": "Skill Point 57",
+    "type": "toggle",
+    "codes": "SP57"
+  },
+  {
+    "name": "Skill Point 58",
+    "type": "toggle",
+    "codes": "SP58"
+  },
+  {
+    "name": "Skill Point 59",
+    "type": "toggle",
+    "codes": "SP59"
+  },
+  {
+    "name": "Skill Point 60",
+    "type": "toggle",
+    "codes": "SP60"
+  },
+  {
+    "name": "Skill Point 61",
+    "type": "toggle",
+    "codes": "SP61"
+  },
+  {
+    "name": "Skill Point 62",
+    "type": "toggle",
+    "codes": "SP62"
+  },
+  {
+    "name": "Skill Point 63",
+    "type": "toggle",
+    "codes": "SP63"
+  },
+  {
+    "name": "Skill Point 64",
+    "type": "toggle",
+    "codes": "SP64"
+  },
+  {
+    "name": "Skill Point 65",
+    "type": "toggle",
+    "codes": "SP65"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#060612",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Clank Items",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "clank_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Ratchet Items",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "ratchet_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Extras",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "extra_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Case Files",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "planets_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Weapon Mods",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "mod_grid"
+              }
+            }
+          ]
+        },
+				{
+					"type": "dock",
+					"content": {
+						"type": "tabbed",
+						"tabs": [
+							{
+								"title": "Case Files",
+								"content": {
+									"type": "layout",
+									"key": "checks"
+								}
+							},
+							{
+								"title": "Ratchet",
+								"content": {
+									"type": "layout",
+									"key": "ratchet"
+								}
+							},
+							{
+								"title": "Clank",
+								"content": {
+									"type": "layout",
+									"key": "clank"
+								}
+							},
+							{
+								"title": "Gadgebots",
+								"content": {
+									"type": "layout",
+									"key": "gadge"
+								}
+							},
+							{
+								"title": "Qwark",
+								"content": {
+									"type": "layout",
+									"key": "qwark"
+								}
+							},
+							{
+								"title": "Special Missions",
+								"content": {
+									"type": "layout",
+									"key": "special"
+								}
+							}
+						]
+					}
+				}
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "clank_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "6, 2",
+            "h_alignment": "left",
+            "item_size": "48",
+            "rows": [
+              [
+                "Tiearang",
+                "Tangle",
+                "Blackout",
+                "Monocle",
+                "Kick",
+                "BoltGrab"
+              ],
+              [
+                "Cufflink",
+                "Umbrella",
+                "Boots",
+                "Shades",
+                "Hotfoot",
+                "Hypno"
+              ],
+              [
+                "Blowtorch",
+                "Knux",
+                "Omnikey",
+                "ClankPDA",
+                "Beta",
+                "RacPack"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "broadcast_clank_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "6, 2",
+            "h_alignment": "left",
+            "item_size": "36",
+            "rows": [
+              [
+                "Tiearang",
+                "Tangle",
+                "Blackout",
+                "Monocle",
+                "Kick",
+                "BoltGrab"
+              ],
+              [
+                "Cufflink",
+                "Umbrella",
+                "Boots",
+                "Shades",
+                "Hotfoot",
+                "Hypno"
+              ],
+              [
+                "Blowtorch",
+                "Knux",
+                "Omnikey",
+                "ClankPDA",
+                "Beta",
+                "RacPack"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
