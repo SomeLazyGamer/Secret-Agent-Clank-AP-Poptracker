@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "1.1.0",
+			"download_url": "https://github.com/SomeLazyGamer/Secret-Agent-Clank-AP-Poptracker/releases/download/1.1.0/SAC_Tracker_SLG_1.1.0.zip",
+			"sha256": "a48292cdb19a685b516456903d41e6b13108c3eacf2762e866bbf9d7c8030ead",
+			"changelog": ["Oops, all day 1 fixes"]
+		},
+		{
 			"package_version": "1.0.0",
 			"download_url": "https://github.com/SomeLazyGamer/Secret-Agent-Clank-AP-Poptracker/releases/download/1.0.0/SAC_Tracker_SLG_1.0.0.zip",
 			"sha256": "2326ea3c9bb392631ae8b61e6ac1d4e2b27e64937fd751358e579e9db9d49561",

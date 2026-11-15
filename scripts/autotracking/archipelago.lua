@@ -258,10 +258,11 @@ function onClear(slot_data)
             obj.CurrentStage = stage
         end
     end
-    if slot_data['progressive_wrench'] == true then
+    if slot_data['progressive_wrench'] then
         local obj = Tracker:FindObjectForCode("ProgWrench")
+        local stage = slot_data['progressive_wrench']
         if obj then
-            obj.CurrentStage = 1
+            obj.CurrentStage = stage
         end
     end
     if slot_data['all_missions'] then
