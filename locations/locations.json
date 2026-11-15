@@ -3175,7 +3175,7 @@
                   },
                   {
                       "name": "Bulkhead Lock - (SP) Cereal Decoder Ring: Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds.",
-                      "ref": "Bulkhead Lock/Skill Point: Cerial Decoder Rung/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds."
+                      "ref": "Bulkhead Lock/Skill Point: Cereal Decoder Ring/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds."
                   },
                   {
                       "name": "Underwater Bunker - Clank Under Glass Mission",
@@ -3295,6 +3295,7 @@
       "children": [
           {
               "name": "Shard Gun Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3352,6 +3353,7 @@
           },
           {
               "name": "Walloper Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3409,48 +3411,49 @@
           },
           {
               "name": "Dual Lacerators Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
                       "name": "Dual Lacerators: Level 2",
-            "access_rules": [ "ProgWeapOn, DaulLac:2", "ProgWeapOff, DaulLac" ],
+            "access_rules": [ "ProgWeapOn, DualLac:2", "ProgWeapOff, DualLac" ],
             "visibility_rules": [ "WeapLVLOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 3",
-            "access_rules": [ "ProgWeapOn, DaulLac:3", "ProgWeapOff, DaulLac" ],
+            "access_rules": [ "ProgWeapOn, DualLac:3", "ProgWeapOff, DualLac" ],
             "visibility_rules": [ "WeapLVLOn" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 4",
-            "access_rules": [ "ProgWeapOn, DaulLac:4", "ProgWeapOff, DaulLac" ],
+            "access_rules": [ "ProgWeapOn, DualLac:4", "ProgWeapOff, DualLac" ],
             "visibility_rules": [ "WeapLVLOn", "WeapLVLMax", "WeapLVL48" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 5",
-            "access_rules": [ "ProgWeapOn, DaulLac:5, ProgChallOn, ProgNG1", "ProgWeapOff, DaulLac, ProgChallOn, ProgNG1","ProgWeapOn, DaulLac:5, ProgChallOff", "ProgWeapOff, DaulLac, ProgChallOff" ],
+            "access_rules": [ "ProgWeapOn, DualLac:5, ProgChallOn, ProgNG1", "ProgWeapOff, DualLac, ProgChallOn, ProgNG1","ProgWeapOn, DualLac:5, ProgChallOff", "ProgWeapOff, DualLac, ProgChallOff" ],
             "visibility_rules": [ "WeapLVLOn, NGP1" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 6",
-            "access_rules": [ "ProgWeapOn, DaulLac:6, ProgChallOn, ProgNG1", "ProgWeapOff, DaulLac, ProgChallOn, ProgNG1","ProgWeapOn, DaulLac:6, ProgChallOff", "ProgWeapOff, DaulLac, ProgChallOff" ],
+            "access_rules": [ "ProgWeapOn, DualLac:6, ProgChallOn, ProgNG1", "ProgWeapOff, DualLac, ProgChallOn, ProgNG1","ProgWeapOn, DualLac:6, ProgChallOff", "ProgWeapOff, DualLac, ProgChallOff" ],
             "visibility_rules": [ "WeapLVLOn, NGP1" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 7",
-            "access_rules": [ "ProgWeapOn, DaulLac:7, ProgChallOn, ProgNG1", "ProgWeapOff, DaulLac, ProgChallOn, ProgNG1","ProgWeapOn, DaulLac:7, ProgChallOff", "ProgWeapOff, DaulLac, ProgChallOff" ],
+            "access_rules": [ "ProgWeapOn, DualLac:7, ProgChallOn, ProgNG1", "ProgWeapOff, DualLac, ProgChallOn, ProgNG1","ProgWeapOn, DualLac:7, ProgChallOff", "ProgWeapOff, DualLac, ProgChallOff" ],
             "visibility_rules": [ "WeapLVLOn, NGP1" ],
                       "item_count": 1
                   },
                   {
                       "name": "Dual Lacerators: Level 8",
-            "access_rules": [ "ProgWeapOn, DaulLac:8, ProgChallOn, ProgNG1", "ProgWeapOff, DaulLac, ProgChallOn, ProgNG1","ProgWeapOn, DaulLac:8, ProgChallOff", "ProgWeapOff, DaulLac, ProgChallOff" ],
+            "access_rules": [ "ProgWeapOn, DualLac:8, ProgChallOn, ProgNG1", "ProgWeapOff, DualLac, ProgChallOn, ProgNG1","ProgWeapOn, DualLac:8, ProgChallOff", "ProgWeapOff, DualLac, ProgChallOff" ],
             "visibility_rules": [ "WeapLVLOn, NGP1", "WeapLVLMaxNG, NGP1", "WeapLVL48, NGP1" ],
                       "item_count": 1
                   }
@@ -3466,6 +3469,7 @@
           },
           {
               "name": "Mine Launcher Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3523,6 +3527,7 @@
           },
           {
               "name": "Bee Mine Mk. II Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3580,6 +3585,7 @@
           },
           {
               "name": "Pork Bomb Gun Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3637,6 +3643,7 @@
           },
           {
               "name": "Shock Rocket Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3694,6 +3701,7 @@
           },
           {
               "name": "Plasma Whip Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3751,6 +3759,7 @@
           },
           {
               "name": "RYNO Levels",
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3785,7 +3794,7 @@
           {
               "name": "Ratchet Nanotech Levels 21-30",
               "visibility_rules": ["RatchetNanoOn"],
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -3847,52 +3856,52 @@
               "sections": [
                   {
                       "name": "Ratchet Nanotech Level 31",
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 32",
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 33",
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 34",
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 35",
-            "access_rules": [ "ProgChallOff, NanoRat", "ProgChallOn, ProgNG, NanoRat" ],
+            "access_rules": [ "NanoRat" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 36",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 37",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 38",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 39",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
                       "item_count": 1
                   },
                   {
                       "name": "Ratchet Nanotech Level 40",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
                       "item_count": 1
                   }
               ],
@@ -3907,7 +3916,7 @@
           },
           {
               "name": "Ratchet Nanotech Levels 41-50",
-            "access_rules": [ "ProgChallOff, NanoRat:2", "ProgChallOn, ProgNG, NanoRat:2" ],
+            "access_rules": [ "NanoRat:2" ],
               "visibility_rules": ["RatchetNanoOn"],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
@@ -3965,7 +3974,7 @@
           {
               "name": "Ratchet Nanotech Levels 51-60",
               "visibility_rules": ["RatchetNanoOn"],
-            "access_rules": [ "ProgChallOff, NanoRat:3", "ProgChallOn, ProgNG, NanoRat:3" ],
+            "access_rules": [ "NanoRat:3" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4285,7 +4294,7 @@
           },
           {
               "name": "The Mess Hall",
-                      "access_rules": ["Ratchet2, ProgWrenchOff", "Ratchet2, ProgWrenchOn, Wrench:1", "Ratchet2, ProgWrenchStart", "Ratchet2, ProgWrenchItems, FireBomb","Ratchet2, ProgWrenchItems, TripleWave","Ratchet2, ProgWrenchItems, ShockCrystal","Ratchet2, ProgWrenchItems, WildBurst"],
+                      "access_rules": ["Ratchet2, ProgWrenchOff", "Ratchet2, ProgWrenchOn, Wrench:1", "Ratchet2, ProgWrenchStart", "Ratchet2, ProgWrenchItems, Wrench"],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4463,7 +4472,7 @@
                   },
                   {
                       "name": "(SP) Ruba-Dub Club: Only use the wrench to kill the Ameboid King.",
-                      "access_rules": ["ProgWrenchOff", "ProgWrenchOn, Wrench:1", "ProgWrenchStart", "ProgWrenchItems, FireBomb","ProgWrenchItems, TripleWave","ProgWrenchItems, ShockCrystal","ProgWrenchItems, WildBurst"],
+                      "access_rules": ["ProgWrenchOff", "ProgWrenchOn, Wrench:1", "ProgWrenchStart", "ProgWrenchItems, Wrench"],
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP44" ],
                       "item_count": 1
                   },
@@ -4566,6 +4575,7 @@
       "children": [
           {
               "name": "Tie-A-Rang Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4623,6 +4633,7 @@
           },
           {
               "name": "Cufflink Bomb Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4680,6 +4691,7 @@
           },
           {
               "name": "Holo-Knuckles Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4737,6 +4749,7 @@
           },
           {
               "name": "Tanglevine Carnation Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4794,6 +4807,7 @@
           },
           {
               "name": "Thunderstorm Umbrella Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -4851,6 +4865,7 @@
           },
           {
               "name": "Blowtorch Briefcase Levels",
+            "access_rules": [ "NanoClank" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -5418,52 +5433,52 @@
                   },
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -5557,61 +5572,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -5716,52 +5731,52 @@
                   },
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -5882,52 +5897,52 @@
                   },
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -6037,61 +6052,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -6173,61 +6188,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -6305,61 +6320,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -6412,52 +6427,52 @@
                   },
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
-                      "name": "Stealth Takedown: 1",
+                      "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
-                      "name": "Stealth Takedown: 2",
+                      "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
-                      "name": "Stealth Takedown: 3",
+                      "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
-                      "name": "Stealth Takedown: 4",
+                      "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
-                      "name": "Stealth Takedown: 5",
+                      "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
-                      "name": "Stealth Takedown: 6",
+                      "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
-                      "name": "Stealth Takedown: 7",
+                      "name": "Stealth Takedown 7",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
-                      "name": "Stealth Takedown: 8",
+                      "name": "Stealth Takedown 8",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
-                      "name": "Stealth Takedown: 9",
+                      "name": "Stealth Takedown 9",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
-                      "name": "Stealth Takedown: 10",
+                      "name": "Stealth Takedown 10",
                       "item_count": 1
                   }
               ],
@@ -6472,7 +6487,11 @@
           },
           {
               "name": "Klunk's Lair",
-              "access_rules": ["ClankHyd2"],
+              "access_rules": ["ClankHyd2, Tiearang, Knux, Cufflunk", "ClankHyd2, Tiearang, Knux, Blowtorch", "ClankHyd2, Tiearang, Knux, Umbrella", "ClankHyd2, Tiearang, Knux, Tangle",
+"ClankHyd2, Tiearang, Cufflink, Blowtorch", "ClankHyd2, Tiearang, Cufflink, Umbrella", "ClankHyd2, Tiearang, Cufflink, Tangle", "ClankHyd2, Tiearang, Blowtorch, Umbrella",
+"ClankHyd2, Tiearang, Blowtorch, Tangle", "ClankHyd2, Tiearang, Umbrella, Tangle", "ClankHyd2, Knux, Cufflink, Blowtorch", "ClankHyd2, Knux, Cufflink, Umbrella",
+"ClankHyd2, Knux, Cufflink, Tangle", "ClankHyd2, Knux, Blowtorch, Umbrella", "ClankHyd2, Knux, Blowtorch, Tangle", "ClankHyd2, Knux, Umbrella, Tangle",
+"ClankHyd2, Cufflink, Blowtorch, Umbrella", "ClankHyd2, Cufflink, Blowtorch, Tangle", "ClankHyd2, Cufflink, Umbrella, Tangle", "ClankHyd2, Blowtorch, Umbrella, Tangle"],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -6663,7 +6682,7 @@
                   },
                   {
                       "name": "(SP) Cereal Decoder Ring: Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds.",
-                      "ref": "Bulkhead Lock/Skill Point: Cerial Decoder Rung/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds."
+                      "ref": "Bulkhead Lock/Skill Point: Cereal Decoder Ring/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds."
                   }
               ],
               "map_locations": [
@@ -7224,6 +7243,7 @@
       "children": [
           {
               "name": "Agency Vendor",
+              "access_rules": [ "Blackout" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -8060,8 +8080,8 @@
               "map_locations": [
                   {
                       "map": "Azcotal Alley",
-                      "x": "414",
-                      "y": "280",
+                      "x": "266",
+                      "y": "37",
                       "size": 14
                   }
               ]
@@ -8716,6 +8736,7 @@
           },
           {
               "name": "Crashing the Party",
+              "access_rules": [ "Cufflink, Omnikey, Blowtorch, Boots" ],
               "visibility_rules": [ "MissionsOn" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
@@ -8728,8 +8749,8 @@
               "map_locations": [
                   {
                       "map": "Venantonio Labs",
-                      "x": "200",
-                      "y": "438",
+                      "x": "260",
+                      "y": "85",
                       "size": 14
                   }
               ]
@@ -9102,6 +9123,7 @@
           },
           {
               "name": "Mineral Side Path at The Beginning of Level Platforming",
+              "hosted_item": "NanoClank",
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
@@ -10173,7 +10195,7 @@
               ]
           },
           {
-              "name": "Skill Point: Cerial Decoder Rung",
+              "name": "Skill Point: Cereal Decoder Ring",
 
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP60",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP60" ],

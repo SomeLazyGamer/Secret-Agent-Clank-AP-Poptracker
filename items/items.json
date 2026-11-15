@@ -523,7 +523,7 @@
       },
       {
     "img": "images/items/planet/ClankAsy.png",
-    "codes": "ClankAsy, NanoClank"
+    "codes": "ClankAsy"
       }
     ]
   },
@@ -596,7 +596,7 @@
       },
       {
     "img": "images/items/planet/ClankRio2.png",
-    "codes": "ClankRio2, NanoClank"
+    "codes": "ClankRio2"
       }
     ]
   },
@@ -627,7 +627,7 @@
     "name": "Case File (Clank): High-Rollers Casino",
     "type": "toggle",
     "img": "images/items/planet/ClankCasino.png",
-    "codes": "ClankCasino, NanoClank"
+    "codes": "ClankCasino"
   },
   {
     "name": "Case File (Special Missions): High Stakes Room",
@@ -700,7 +700,7 @@
     "name": "Case File (Clank): Galactic Bolt Reserve",
     "type": "toggle",
     "img": "images/items/planet/ClankFort.png",
-    "codes": "ClankFort, NanoClank"
+    "codes": "ClankFort"
   },
   {
     "name": "Case File (Gadgetbots): Inside the A-Eye",
@@ -1817,5 +1817,243 @@
     "name": "Skill Point 65",
     "type": "toggle",
     "codes": "SP65"
+  },
+  {
+    "name": "Asyanica Enemy Access 1",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "AsyanicaNano1, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Asyanica Enemy Access 2",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "AsyanicaNano2, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Asyanica Enemy Access 3",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+        "img_mods": "@disabled"
+      },
+      {
+    "codes": "AsyanicaNano3, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Asyanica Enemy Access 4",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false
+      },
+      {
+          "inherit_codes": false,
+    "codes": "AsyanicaNano4, NanoClank"
+      },
+      {
+    "codes": "AsyanicaNano4, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Gondola Enemy Access",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img_mods": "@disabled"
+      },
+      {
+      },
+      {
+      },
+      {
+    "codes": "GondolaNano, NanoClank"
+      }
+    ]
+  },
+  {
+    "name": "Casino Enemy Access",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+    "codes": "CasinoNano, NanoClank"
+      }
+    ]
   }
 ]

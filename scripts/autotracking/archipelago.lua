@@ -264,10 +264,11 @@ function onClear(slot_data)
             obj.CurrentStage = 1
         end
     end
-    if slot_data['all_missions'] == true then
+    if slot_data['all_missions'] then
         local obj = Tracker:FindObjectForCode("Missions")
+        local stage = slot_data['all_missions']
         if obj then
-            obj.CurrentStage = 1
+            obj.CurrentStage = stage
         end
     end
     if slot_data['all_cutscenes'] == true then
@@ -310,11 +311,8 @@ function onClear(slot_data)
     end
     if slot_data['stealth_takedown_checks'] then
         local obj = Tracker:FindObjectForCode("StealthChecks")
-        local stage = slot_data['stealth_takedown_checks']
-        if obj then
-            obj.CurrentStage = stage
-        end
-    end
+        obj.AcquiredCount = (slot_data['stealth_takedown_checks'])
+    end 
     if slot_data['keycards_and_alien_codes'] == true then
         local obj = Tracker:FindObjectForCode("KeyCode")
         if obj then

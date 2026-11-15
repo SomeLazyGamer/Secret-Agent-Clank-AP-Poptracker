@@ -119,8 +119,8 @@ LOCATION_MAPPING = {
     --(Clank) Azcotal Alley
     [77800108] = { { "@Azcotal Alley/Bee Mine Mk. II Pickup/\"Ratchet could use this!\"" } },
     [77800109] = { { "@Azcotal Alley/Tanglevine Carnation Pickup/\"Follow them!\"" } },
-    [77800110] = { { "@Azcotal Alley/Second Side Alley Along The Main Path/T-Bolt" } },
-    [77800111] = { { "@Azcotal Alley/Side Alley After Second Fountain/T-Bolt" } },
+    [77800110] = { { "@Azcotal Alley/Side Alley After Second Fountain/T-Bolt" } },
+    [77800111] = { { "@Azcotal Alley/Second Side Alley Along The Main Path/T-Bolt" } },
     [77800112] = { { "@Azcotal Alley/Left Side Before End of Level/T-Bolt" } },
     [77800113] = { { "@Azcotal Alley/All the Kingpin's Men/Mission Complete" } },
     [77800114] = { { "@Azcotal Alley/The Kingpin/Mission Complete" } },
@@ -345,7 +345,7 @@ LOCATION_MAPPING = {
     [77800315] = { { "@Bulkhead Lock/Underwater Base/Mission Complete" } },
     [77800316] = { { "@Bulkhead Lock/Gadgebot Challenges/Locked Door Mission" } },
     [77800317] = { { "@Bulkhead Lock/Gadgebot Challenges/Insult to Injury Mission" } },
-    [77800318] = { { "@Bulkhead Lock/Skill Point: Cerial Decoder Rung/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds." } },
+    [77800318] = { { "@Bulkhead Lock/Skill Point: Cereal Decoder Ring/Beat the \"Knockin' On Klunk's Door\" Challenge within 4 minutes and 30 seconds." } },
     [77800319] = { { "@Bulkhead Lock/Enter Cutscene/\"Yes yes, Clank out.\"" } },
     --(Clank) Underwater Bunker
     [77800320] = { { "@Underwater Bunker/Omni-Key Room Before End of Level/T-Bolt" } },
