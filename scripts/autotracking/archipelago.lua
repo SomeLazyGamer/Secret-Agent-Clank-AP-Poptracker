@@ -163,7 +163,7 @@ function onClear(slot_data)
 	end
 
     if slot_data['goal'] then
-        local obj = Tracker:FindObjectForCode("goal")
+        local obj = Tracker:FindObjectForCode("Goal")
         local stage = slot_data['goal']
         if obj then
             obj.CurrentStage = stage

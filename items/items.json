@@ -978,14 +978,15 @@
     "allow_disabled": false,
     "stages": [
       {
-          "codes": "Goal,GoalKlunk"
+          "codes": "Goal,GoalKlunk",
+          "inherit_codes": false
       },
       {
         "codes": "Goal,GoalOpera",
           "inherit_codes": false
       },
       {
-        "codes": "Goal,GoalClank",
+        "codes": "Goal,GoalGadge",
           "inherit_codes": false
       },
       {

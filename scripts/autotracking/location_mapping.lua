@@ -300,7 +300,7 @@ LOCATION_MAPPING = {
     --(Special) The Quasar Fields
     [77800275] = { { "@Special Missions/The Quasar Fields/Escape the Kudzu Mission" } },
     [77800276] = { { "@Special Missions/The Quasar Fields/Escape the Kudzu Mission" } },
-    [77800277] = { { "@Special Missions/The Quasar Fields/(SP) Min Maxing: Score 1075 points in the Giant Clank level (1550 in Callenge Mode)." } },
+    [77800277] = { { "@Special Missions/The Quasar Fields/(SP) Min Maxing: Score 825 points in the Giant Clank level (1300 in Callenge Mode)." } },
     [77800278] = { { "@Special Missions/The Quasar Fields/(SP) I Kill The Rock: Kill all 3 Mega Rock class dreadnoughts." } },
     --(Ratchet) Prision Breakout!
     [77800279] = { { "@Ratchet/Prison Breakout!/Catch-as-Catch-Can" } },
@@ -351,7 +351,7 @@ LOCATION_MAPPING = {
     [77800320] = { { "@Underwater Bunker/Omni-Key Room Before End of Level/T-Bolt" } },
     [77800321] = { { "@Underwater Bunker/Clank Under Glass/Mission Complete" } },
     [77800322] = { { "@Underwater Bunker/Clank Under Glass/Mission Complete" } },
-    [77800323] = { { "@Underwater Bunker/Skill Point: 133t h4xx0r/Don't fail any Omni Key puzzles." } },
+    [77800323] = { { "@Underwater Bunker/Skill Point: l33t h4xx0r/Don't fail any Omni Key puzzles." } },
     [77800324] = { { "@Underwater Bunker/Skill Point: Rust Proof/Don't fall in the water, ever." } },
     [77800325] = { { "@Underwater Bunker/Skill Point: I'm Not There/Don't get seen by any enemies, lasers or fish." } },
     [77800326] = { { "@Underwater Bunker/Vessup's Secret/Alien Code" } },

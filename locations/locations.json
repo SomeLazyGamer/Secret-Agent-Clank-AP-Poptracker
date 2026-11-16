@@ -3059,8 +3059,8 @@
                       "ref": "Special Missions/The Quasar Fields/Escape the Kudzu Mission"
                   },
                   {
-                      "name": "The Quasar Fields - (SP) Min Maxing: Score 1075 points in the Giant Clank level (1550 in Callenge Mode).",
-                      "ref": "Special Missions/The Quasar Fields/(SP) Min Maxing: Score 1075 points in the Giant Clank level (1550 in Callenge Mode)."
+                      "name": "The Quasar Fields - (SP) Min Maxing: Score 825 points in the Giant Clank level (1300 in Callenge Mode).",
+                      "ref": "Special Missions/The Quasar Fields/(SP) Min Maxing: Score 825 points in the Giant Clank level (1300 in Callenge Mode)."
                   },
                   {
                       "name": "The Quasar Fields - (SP) I Kill The Rock: Kill all 3 Mega Rock class dreadnoughts.",
@@ -3198,8 +3198,8 @@
                       "ref": "Underwater Bunker/Jeff's Secret/Alien Code"
                   },
                   {
-                      "name": "Underwater Bunker - (SP) 133t h4xx0r: Don't fail any Omni Key puzzles.",
-                      "ref": "Underwater Bunker/Skill Point: 133t h4xx0r/Don't fail any Omni Key puzzles."
+                      "name": "Underwater Bunker - (SP) l33t h4xx0r: Don't fail any Omni Key puzzles.",
+                      "ref": "Underwater Bunker/Skill Point: l33t h4xx0r/Don't fail any Omni Key puzzles."
                   },
                   {
                       "name": "Underwater Bunker - (SP) Rust Proof: Don't fall in the water, ever.",
@@ -3284,6 +3284,465 @@
                       "x": "2921",
                       "y": "757",
                       "size": 50
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Any",
+              "visibility_rules": [ "GoalAny" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "Beat any of the goals shown below!",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "430",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "430",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "2008",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "430",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "430",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "430",
+                      "y": "1490",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Pick & Mix",
+              "visibility_rules": [ "GoalPick" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "Beat all of the goals shown below!",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "553",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "553",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "2135",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "553",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "553",
+                      "y": "1490",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "553",
+                      "y": "1490",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Defeat Klunk!",
+              "visibility_rules": [ "GoalClank","GoalPick, PickKlunk" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"Survival of the fittest, I'm afraid.\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "157",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "157",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "1739",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "157",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "157",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "157",
+                      "y": "1627",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Qwark Opera",
+              "visibility_rules": [ "GoalClank","GoalPick, PickKlunk" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"Let me tell you how it all went down...\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "284",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "284",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "1866",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "284",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "284",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "284",
+                      "y": "1627",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: All Gadgebots",
+              "visibility_rules": [ "GoalGadge","GoalPick, PickGadge" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"Time for an evac, Gadgebot style!\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "417",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "417",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "1999",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "417",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "417",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "417",
+                      "y": "1627",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Ratchet Prision Escape",
+              "visibility_rules": [ "GoalRatchet","GoalPick, PickRatchet" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"Awww, did we wake ya, hero?\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "544",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "544",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "2126",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "544",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "544",
+                      "y": "1627",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "544",
+                      "y": "1627",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: These Are the Real Adventures of Captain Qwark",
+              "visibility_rules": [ "GoalQwark","GoalPick, PickQwark" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"That's ma story, and I'm stickin' to it!\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "216",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "216",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "1798",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "216",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "216",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "216",
+                      "y": "1755",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Alien Codes",
+              "visibility_rules": [ "GoalAlien","GoalPick, PickAlien" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"Find all the codes to get a new set of planetary coordinates!\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "350",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "350",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "1932",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "350",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "350",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "350",
+                      "y": "1755",
+                      "size": 65
+                  }
+              ]
+          },
+          {
+              "name": "Goal: Chalice of Power",
+              "visibility_rules": [ "GoalChalice","GoalPick, PickChalice" ],
+              "access_rules": [  "{}"  ],
+              "chest_unopened_img": "images/Question.png",
+              "chest_opened_img": "images/complete.png",
+              "sections": [
+                  {
+                      "name": "\"You didn't just look them up on the internet, did you?\"",
+                      "item_count": 1
+                  }
+              ],
+              "map_locations": [
+                  {
+                      "map": "Case Files",
+                      "x": "480",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Ratchet",
+                      "x": "480",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Clank",
+                      "x": "2062",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Qwark",
+                      "x": "480",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Gadgebots",
+                      "x": "480",
+                      "y": "1755",
+                      "size": 65
+                  },
+                  {
+                      "map": "Special Missions",
+                      "x": "480",
+                      "y": "1755",
+                      "size": 65
                   }
               ]
           }
@@ -4250,35 +4709,42 @@
                   },
                   {
                       "name": "Agency Vendor: Titan Shard Cannon - 200,000",
+              "chest_unopened_img": "images/vendor.png",
                       "visibility_rules": [ "NGP1" ],
                       "access_rules": [ "ProgChallOff", "ProgChallOn, ProgNG" ],
                       "item_count": 1
                   },
                   {
                       "name": "Agency Vendor: Titan Marauder - 200,000",
+              "chest_unopened_img": "images/vendor.png",
                       "visibility_rules": [ "NGP1" ],
                       "access_rules": [ "ProgChallOff", "ProgChallOn, ProgNG" ],
                       "item_count": 1
                   },
                   {
                       "name": "Shard Gun Pickup",
+              "chest_unopened_img": "images/items/ratchet/Shard.png",
                       "item_count": 1
                   },
                   {
                       "name": "Walloper Pickup",
+              "chest_unopened_img": "images/items/ratchet/Walloper.png",
                       "item_count": 1
                   },
                   {
                       "name": "T-Bolt: Complete Mega Challenge: Cellblock",
+              "chest_unopened_img": "images/bolt.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Stainless Steel: Take no damage during the Mega Challenge.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP5" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Playing With Fire: Kill 5 enemies by running them into Lizard Thug Molotov cocktails.",
+              "chest_unopened_img": "images/skill.png",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP6" ],
                       "item_count": 1
                   }
@@ -4334,17 +4800,20 @@
                   },
                   {
                       "name": "T-Bolt: Complete Mega Challenge: Cafeteria",
+              "chest_unopened_img": "images/bolt.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Empty The Warrens: Kill over 89 Tyhrranoids in the Tyrranoid Recycling Challenge.",
-              "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, S18" ],
+              "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP18" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Antaeus: Beat the Mega-Challenge without jumping.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP19",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP19" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -4399,17 +4868,20 @@
                   },
                   {
                       "name": "T-Bolt: Complete Mega Challenge: Prison Yard",
+              "chest_unopened_img": "images/bolt.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Indian Burn: Kill 10 enemies with dodgeballs.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP27",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP27" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) The Law Can't Touch Me: Complete the Mega Challenge and never get struck by the yard guns.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP28" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -4464,22 +4936,26 @@
                   },
                   {
                       "name": "Agency Vendor: Pork Bomb Gun War Pigs Mod - 25,000",
+              "chest_unopened_img": "images/vendor.png",
                       "item_count": 1
                   },
                   {
                       "name": "T-Bolt: Complete Mega Challenge: Shower",
+              "chest_unopened_img": "images/bolt.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Ruba-Dub Club: Only use the wrench to kill the Ameboid King.",
                       "access_rules": ["ProgWrenchOff", "ProgWrenchOn, Wrench:1", "ProgWrenchStart", "ProgWrenchItems, Wrench"],
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP44" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Modesty: Don't lose your towel, ever, during the Mega Challenge!",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP45",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP45" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -4534,14 +5010,17 @@
                   },
                   {
                       "name": "Agency Vendor: Shock Rocket Taser Mod - 35,000",
+              "chest_unopened_img": "images/vendor.png",
                       "item_count": 1
                   },
                   {
                       "name": "Agency Vendor: Plasma Whip Flame Trails Mod - 35,000",
+              "chest_unopened_img": "images/vendor.png",
                       "item_count": 1
                   },
                   {
                       "name": "T-Bolt: Complete Mega Challenge: Battle Royale",
+              "chest_unopened_img": "images/bolt.png",
                       "item_count": 1
                   },
                   {
@@ -4550,12 +5029,14 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP52",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP52",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP52" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Hanging Judge: Beat the main challenge without letting any prisoners escape.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP53",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP53" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -5434,51 +5915,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -5573,60 +6064,70 @@
                       "visibility_rules": [ "StealthChecks:1" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "access_rules": [ "Boots, Tiearang, Omnikey"],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -5732,51 +6233,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -5898,51 +6409,61 @@
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -6053,60 +6574,70 @@
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -6189,60 +6720,70 @@
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -6321,60 +6862,70 @@
                       "visibility_rules": [ "StealthChecks:1" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 1",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 2",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 3",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 4",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 5",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 6",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -6414,8 +6965,8 @@
                       "ref": "Underwater Bunker/Jeff's Secret/Alien Code"
                   },
                   {
-                      "name": "(SP) 133t h4xx0r: Don't fail any Omni Key puzzles.",
-                      "ref": "Underwater Bunker/Skill Point: 133t h4xx0r/Don't fail any Omni Key puzzles."
+                      "name": "(SP) l33t h4xx0r: Don't fail any Omni Key puzzles.",
+                      "ref": "Underwater Bunker/Skill Point: l33t h4xx0r/Don't fail any Omni Key puzzles."
                   },
                   {
                       "name": "(SP) Rust Proof: Don't fall in the water, ever.",
@@ -6427,52 +6978,62 @@
                   },
                   {
                       "visibility_rules": [ "StealthChecks:1" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 1",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:2" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 2",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:3" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 3",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:4" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 4",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:5" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 5",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:6" ],
+              "chest_unopened_img": "images/stealth.png",
                       "name": "Stealth Takedown 6",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:7" ],
                       "name": "Stealth Takedown 7",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:8" ],
                       "name": "Stealth Takedown 8",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:9" ],
                       "name": "Stealth Takedown 9",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   },
                   {
                       "visibility_rules": [ "StealthChecks:10" ],
                       "name": "Stealth Takedown 10",
+              "chest_unopened_img": "images/stealth.png",
                       "item_count": 1
                   }
               ],
@@ -6487,11 +7048,17 @@
           },
           {
               "name": "Klunk's Lair",
-              "access_rules": ["ClankHyd2, Tiearang, Knux, Cufflunk", "ClankHyd2, Tiearang, Knux, Blowtorch", "ClankHyd2, Tiearang, Knux, Umbrella", "ClankHyd2, Tiearang, Knux, Tangle",
-"ClankHyd2, Tiearang, Cufflink, Blowtorch", "ClankHyd2, Tiearang, Cufflink, Umbrella", "ClankHyd2, Tiearang, Cufflink, Tangle", "ClankHyd2, Tiearang, Blowtorch, Umbrella",
-"ClankHyd2, Tiearang, Blowtorch, Tangle", "ClankHyd2, Tiearang, Umbrella, Tangle", "ClankHyd2, Knux, Cufflink, Blowtorch", "ClankHyd2, Knux, Cufflink, Umbrella",
-"ClankHyd2, Knux, Cufflink, Tangle", "ClankHyd2, Knux, Blowtorch, Umbrella", "ClankHyd2, Knux, Blowtorch, Tangle", "ClankHyd2, Knux, Umbrella, Tangle",
-"ClankHyd2, Cufflink, Blowtorch, Umbrella", "ClankHyd2, Cufflink, Blowtorch, Tangle", "ClankHyd2, Cufflink, Umbrella, Tangle", "ClankHyd2, Blowtorch, Umbrella, Tangle"],
+              "access_rules": ["ClankHyd2, NGPOff, Tiearang, Knux, Cufflunk", "ClankHyd2, NGPOff, Tiearang, Knux, Blowtorch", "ClankHyd2, NGPOff, Tiearang, Knux, Umbrella", "ClankHyd2, NGPOff, Tiearang, Knux, Tangle",
+"ClankHyd2, NGPOff, Tiearang, Cufflink, Blowtorch", "ClankHyd2, NGPOff, Tiearang, Cufflink, Umbrella", "ClankHyd2, NGPOff, Tiearang, Cufflink, Tangle", "ClankHyd2, NGPOff, Tiearang, Blowtorch, Umbrella",
+"ClankHyd2, NGPOff, Tiearang, Blowtorch, Tangle", "ClankHyd2, NGPOff, Tiearang, Umbrella, Tangle", "ClankHyd2, NGPOff, Knux, Cufflink, Blowtorch", "ClankHyd2, NGPOff, Knux, Cufflink, Umbrella",
+"ClankHyd2, NGPOff, Knux, Cufflink, Tangle", "ClankHyd2, NGPOff, Knux, Blowtorch, Umbrella", "ClankHyd2, NGPOff, Knux, Blowtorch, Tangle", "ClankHyd2, NGPOff, Knux, Umbrella, Tangle",
+"ClankHyd2, NGPOff, Cufflink, Blowtorch, Umbrella", "ClankHyd2, NGPOff, Cufflink, Blowtorch, Tangle", "ClankHyd2, NGPOff, Cufflink, Umbrella, Tangle", "ClankHyd2, NGPOff, Blowtorch, Umbrella, Tangle",
+
+"ClankHyd2, NGP1, ClankPDA, Tiearang, Knux, Cufflunk", "ClankHyd2, NGP1, ClankPDA, Tiearang, Knux, Blowtorch", "ClankHyd2, NGP1, ClankPDA, Tiearang, Knux, Umbrella", "ClankHyd2, NGP1, ClankPDA, Tiearang, Knux, Tangle",
+"ClankHyd2, NGP1, ClankPDA, Tiearang, Cufflink, Blowtorch", "ClankHyd2, NGP1, ClankPDA, Tiearang, Cufflink, Umbrella", "ClankHyd2, NGP1, ClankPDA, Tiearang, Cufflink, Tangle", "ClankHyd2, NGP1, ClankPDA, Tiearang, Blowtorch, Umbrella",
+"ClankHyd2, NGP1, ClankPDA, Tiearang, Blowtorch, Tangle", "ClankHyd2, NGP1, ClankPDA, Tiearang, Umbrella, Tangle", "ClankHyd2, NGP1, ClankPDA, Knux, Cufflink, Blowtorch", "ClankHyd2, NGP1, ClankPDA, Knux, Cufflink, Umbrella",
+"ClankHyd2, NGP1, ClankPDA, Knux, Cufflink, Tangle", "ClankHyd2, NGP1, ClankPDA, Knux, Blowtorch, Umbrella", "ClankHyd2, NGP1, ClankPDA, Knux, Blowtorch, Tangle", "ClankHyd2, NGP1, ClankPDA, Knux, Umbrella, Tangle",
+"ClankHyd2, NGP1, ClankPDA, Cufflink, Blowtorch, Umbrella", "ClankHyd2, NGP1, ClankPDA, Cufflink, Blowtorch, Tangle", "ClankHyd2, NGP1, ClankPDA, Cufflink, Umbrella, Tangle", "ClankHyd2, NGP1, ClankPDA, Blowtorch, Umbrella, Tangle"],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
@@ -6523,11 +7090,13 @@
                       "name": "(SP) Turn the Tables: Complete at least 4 successful takedowns on Klunk, and never get taken down yourself.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP64",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP64" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) A Pretty Good Likeness: Beat Klunk without damaging Robo-Ratchet.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP65" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -6729,12 +7298,14 @@
                       "name": "(SP) Inverse Ninja Law: Kill 99 ninjas during the fight.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP12",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP12" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Blaster Overload: Beat the boss without using the regular blaster.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP13",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP13" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -6766,6 +7337,7 @@
                       "name": "(SP) 52 Card Pickup: Finish off Jack using only cards, not bombs. Using punches is also alright.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP24",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP24" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
@@ -6773,6 +7345,7 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP25",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP25",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP25" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -6809,16 +7382,19 @@
                       "name": "(SP) Twinkle Toes: Get a 5-chain of butterfly bounces without touching the stage.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP37",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP37" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Magnum Opus: Beat the entire opera without getting hit.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP38" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Sold Out: Get 150,000 Box Office sales.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP39" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -6891,11 +7467,13 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP58",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP58",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP58" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Perfect Mirror: Let not a single leak spring in the level.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP59" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7007,18 +7585,21 @@
                       "name": "(SP) Black Diamond: Hit no Obstacles; Enemy projectiles do not count.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP15",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP15" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Smooth Moves: Cause at least 15 enemies to get killed by their friends.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP16",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP16" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Ringleader: Collect all the rings in the Go For The Gold challenge.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP17",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP17" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7044,11 +7625,13 @@
                   {
                       "name": "(SP) Lucky Sevens: Complete the timing segment with 77,700 points.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP29" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) A Gadgebot Stands Alone: Never use the revive command in either of the Gadgebot arenas.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP30" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7098,24 +7681,28 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP33",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP33",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP33" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Deep Six: Don't get hit by seeking mines.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP34",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP34" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Wake Of Destruction: Destroy everything, bridges, tunnels covers, et cetera.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP35",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP35" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Ringmaster: Collect all the rings in the Threading The Needle challenge.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP36",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP36" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7139,13 +7726,15 @@
                       "item_count": 1
                   },
                   {
-                      "name": "(SP) Min Maxing: Score 1075 points in the Giant Clank level (1550 in Callenge Mode).",
+                      "name": "(SP) Min Maxing: Score 825 points in the Giant Clank level (1300 in Callenge Mode).",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP50" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) I Kill The Rock: Kill all 3 Mega Rock class dreadnoughts.",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP51" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7205,24 +7794,28 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP54",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP54",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP54" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Offensive Driver: Complete the timed challenge with at least 60 sec remaining.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP55",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP55" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Slippery Slope: Hit at least 5 oil slicks on a single life.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP56",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP56" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   },
                   {
                       "name": "(SP) Ring Around The Rosie: Collect all the rings in the Driving Test ring challenge.",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP57",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP57" ],
+              "chest_unopened_img": "images/skill.png",
                       "item_count": 1
                   }
               ],
@@ -7244,8 +7837,8 @@
           {
               "name": "Agency Vendor",
               "access_rules": [ "Blackout" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Proto Whirlwind Throwtie - 400,000",
@@ -7339,7 +7932,7 @@
               "name": "Therm-Optic Shades Pickup",
                       "visibility_rules": [ "NGP1" ],
                       "access_rules": [ "ProgChallOff", "ProgChallOn, ProgNG" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/shades.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7358,7 +7951,7 @@
           },
           {
               "name": "Tie-A-Rang Pickup",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/tiearang.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7397,7 +7990,7 @@
           },
           {
               "name": "Blackout Pen Pickup",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/blackout.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7417,7 +8010,7 @@
           {
               "name": "Dual Lacerators Pickup",
               "access_rules": [ "Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/ratchet/DualLac.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7437,7 +8030,7 @@
           {
               "name": "Jet Boots Pickup",
               "access_rules": [ "Boots, Blackout", "Blackout, Tiearang" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/boots.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7456,7 +8049,6 @@
           },
           {
               "name": "Not The Guided Tour",
-              "visibility_rules": [ "MissionsOn" ],
               "access_rules": [ "Boots, Blackout" ],
               "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
@@ -7478,7 +8070,7 @@
           {
               "name": "JetBoot Around The Pillar After The Ravine",
               "access_rules": [ "Boots" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7498,7 +8090,7 @@
           {
               "name": "Jump Over The Railings in The Museum",
               "access_rules": [ "Boots, Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7520,7 +8112,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP1",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP1" ],
               "access_rules": [ "Boots, Blackout", "Blackout, Tiearang" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7542,7 +8134,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP2",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP2" ],
               "access_rules": [ "Boots, Blackout", "Blackout, Tiearang" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7563,8 +8155,8 @@
               "name": "The Legends",
               "visibility_rules": [ "KeyCodeOn" ],
               "access_rules": [ "Shades" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7584,8 +8176,8 @@
               "name": "Ronn's Secret",
               "visibility_rules": [ "KeyCodeOn" ],
               "access_rules": [ "Blackout, Shades" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7605,8 +8197,8 @@
               "name": "Ben's Secret",
               "visibility_rules": [ "KeyCodeOn" ],
               "access_rules": [ "Boots, Blackout, Shades", "Blackout, Tiearang, Shades" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7630,8 +8222,8 @@
       "children": [
           {
               "name": "Agency Vendor",
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Proto Wrist Mortar - 400,000",
@@ -7674,7 +8266,7 @@
           {
               "name": "Omni-Key 5000 Pickup",
               "access_rules": [ "Boots, Tiearang" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/omnikey.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7694,7 +8286,7 @@
           {
               "name": "Cufflink Bomb Pickup",
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/cufflink.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7714,7 +8306,7 @@
           {
               "name": "Mine Launcher Pickup",
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/ratchet/Mine.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7754,7 +8346,7 @@
           {
               "name": "Inside The Air Duct Before The Second Tie-A-Rang Bridge",
               "access_rules": [ "Boots, Tiearang" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7776,7 +8368,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP9",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP9" ],
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7798,7 +8390,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP10",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP10" ],
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7819,7 +8411,7 @@
               "name": "Skill Point: Like The Wind",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP11" ],
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -7840,8 +8432,8 @@
               "name": "Jhairo's Secret",
               "access_rules": [ "Boots, Tiearang, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7861,8 +8453,8 @@
               "name": "Gilbert's Secret",
               "access_rules": [ "Boots, Tiearang, Omnikey, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7882,8 +8474,8 @@
               "name": "Ricardo's Secret",
               "access_rules": [ "Boots, Tiearang, Omnikey, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -7903,8 +8495,8 @@
               "name": "Second Set of Police Cars",
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/items/extra/RedKey.png",
               "sections": [
                   {
                       "name": "Red Keycard",
@@ -7928,8 +8520,8 @@
       "children": [
           {
               "name": "Agency Vendor",
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Proto Kudzu Tangle - 400,000",
@@ -8011,7 +8603,7 @@
           },
           {
               "name": "Bee Mine Mk. II Pickup",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/ratchet/Bee.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8050,7 +8642,7 @@
           },
           {
               "name": "Tanglevine Carnation Pickup",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/tangle.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8088,7 +8680,7 @@
           },
           {
               "name": "Side Alley After Second Fountain",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8107,7 +8699,7 @@
           },
           {
               "name": "Second Side Alley Along The Main Path",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8126,7 +8718,7 @@
           },
           {
               "name": "Left Side Before End of Level",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8147,7 +8739,7 @@
               "name": "Skill Point: Master of Disguise",
               "visibility_rules": ["SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP20",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP20" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8167,7 +8759,7 @@
           {
               "name": "Skill Point: Trash Talk",
               "visibility_rules": ["SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP21" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8188,7 +8780,7 @@
               "name": "Skill Point: Deadly Hands",
               "visibility_rules": ["SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP22",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP22" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8209,8 +8801,8 @@
               "name": "Jon's Secret",
               "access_rules": [ "Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8230,8 +8822,8 @@
               "name": "The 3 Jasons' Secret",
               "access_rules": [ "Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8251,8 +8843,8 @@
               "name": "Travis' Secret",
               "access_rules": [ "Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8318,7 +8910,7 @@
           {
               "name": "Chamber With Moving Gondolas",
               "access_rules": [ "Boots, Tangle" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8341,7 +8933,7 @@
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP23",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP23" ],
               "access_rules": [ "Knux" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8362,8 +8954,8 @@
               "name": "Leviticus' Secret",
               "access_rules": [ "Boots, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8383,8 +8975,8 @@
               "name": "Carl's Secret",
               "access_rules": [ "Boots, Tangle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8404,8 +8996,8 @@
               "name": "Jess' Secret",
               "access_rules": [ "Boots, Tangle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8430,8 +9022,8 @@
           {
               "name": "Agency Vendor",
               "access_rules": [ "Monocle, Cufflink" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Pork Bomb Gun - 35,000",
@@ -8503,7 +9095,7 @@
           },
           {
               "name": "Holo-Monocle Pickup",
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/monocle.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8564,7 +9156,7 @@
           {
               "name": "Omni-Key Room After Bar",
               "access_rules": [ "Monocle. Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8585,7 +9177,7 @@
               "name": "Skill Point: Beat The House",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP26" ],
               "access_rules": [ "Monocle" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8606,8 +9198,8 @@
               "name": "Colin's Secret",
               "access_rules": [ "Monocle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8627,8 +9219,8 @@
               "name": "Shane's Secret",
               "access_rules": [ "Monocle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8648,8 +9240,8 @@
               "name": "The Ping Pong Secret",
               "access_rules": [ "Monocle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8673,8 +9265,8 @@
       "children": [
           {
               "name": "Agency Vendor",
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Proto Hellfire Haversack - 50,000",
@@ -8798,7 +9390,7 @@
           {
               "name": "Blowtorch Briefcase Pickup",
               "access_rules": [ "Cufflink, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/items/clank/blowtorch.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8859,7 +9451,7 @@
           {
               "name": "Inside Trash Drone next to The Blowtorch Briefcase Room",
               "access_rules": [ "Cufflink, Omnikey, Blowtorch" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8879,7 +9471,7 @@
           {
               "name": "Side Room Next to the Second Moveable Platforms Room",
               "access_rules": [ "Cufflink, Blowtorch, Boots" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8901,7 +9493,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP31",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP31" ],
               "access_rules": [ "Cufflink, Omnikey, Blowtorch, Boots" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8924,7 +9516,7 @@
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP32",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP32" ],
               "access_rules": [ "Cufflink, Blowtorch" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -8945,8 +9537,8 @@
               "name": "Gerard's Secret",
               "access_rules": [ "Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8966,8 +9558,8 @@
               "name": "Alex's Secret",
               "access_rules": [ "Cufflink, Shades, Blowtorch, Boots" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -8987,8 +9579,8 @@
               "name": "Haroon's Secret",
               "access_rules": [ "Cufflink, Shades, Blowtorch, Boots" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9032,8 +9624,8 @@
           },
           {
               "name": "Agency Vendor",
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Shock Rocket - 55,000",
@@ -9125,7 +9717,7 @@
               "name": "Mineral Side Path at The Beginning of Level Platforming",
               "hosted_item": "NanoClank",
               "access_rules": [ "Cufflink, Tiearang, Boots" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9145,7 +9737,7 @@
           {
               "name": "Under The Large Freight Elevator",
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9167,7 +9759,7 @@
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey, Monocle" ],
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP41",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP41" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9189,7 +9781,7 @@
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey, Monocle" ],
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP40",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP40" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9209,7 +9801,7 @@
           {
               "name": "First Vault Atop of Large Boxes in The Middle",
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey, Monocle" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9230,8 +9822,8 @@
               "name": "Avery's Secret",
               "access_rules": [ "Cufflink, Tiearang, Boots, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9251,8 +9843,8 @@
               "name": "Lesley's Secret",
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9272,8 +9864,8 @@
               "name": "Dave's Secret",
               "access_rules": [ "Cufflink, Tiearang, Boots, Omnikey, Monocle, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9297,8 +9889,8 @@
       "children": [
           {
               "name": "Agency Vendor",
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/vendor.png",
               "sections": [
                   {
                       "name": "Pork Bomb Gun Tasty Pigs Mod - 25,000",
@@ -9366,7 +9958,7 @@
           {
               "name": "Room With The Large Glass Case",
               "access_rules": [ "Boots, Tiearang","Boots, Cufflink","Boots, Umbrella" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9386,7 +9978,7 @@
           {
               "name": "Tie-A-Rang The Large Boxes",
               "access_rules": [ "Boots, Tiearang, Omnikey" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9406,7 +9998,7 @@
           {
               "name": "Pit With Many Spores",
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang","Boots, Omnikey, Tangle, Cufflink","Boots, Omnikey, Tangle, Umbrella" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9426,7 +10018,7 @@
           {
               "name": "Gap on The Right in The Last Static Spores Platforming",
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang","Boots, Omnikey, Tangle, Cufflink","Boots, Omnikey, Tangle, Umbrella" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9448,7 +10040,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP46",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP46" ],
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang","Boots, Omnikey, Tangle, Cufflink","Boots, Omnikey, Tangle, Umbrella" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9469,7 +10061,7 @@
               "name": "Skill Point: Revenant",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP47" ],
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang, Monocle","Boots, Omnikey, Tangle, Cufflink, Monocle","Boots, Omnikey, Tangle, Umbrella, Monocle" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9490,8 +10082,8 @@
               "name": "Matt's Secret",
               "access_rules": [ "Boots, Tiearang, Shades","Boots, Cufflink, Shades","Boots, Umbrella, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9511,8 +10103,8 @@
               "name": "Ken's Secret",
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang, Shades","Boots, Omnikey, Tangle, Cufflink, Shades","Boots, Omnikey, Tangle, Umbrella, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9532,8 +10124,8 @@
               "name": "Jared's Secret",
               "access_rules": [ "Boots, Omnikey, Tangle, Tiearang, Shades","Boots, Omnikey, Tangle, Cufflink, Shades","Boots, Omnikey, Tangle, Umbrella, Shades" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9576,12 +10168,12 @@
               ]
           },
           {
-              "name": "Skill Point: 133t h4xx0r",
+              "name": "Skill Point: l33t h4xx0r",
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP61",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP61",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP61" ],
               "access_rules": [ "Boots, Omnikey, Tiearang, Blowtorch","Boots, Omnikey, Tiearang, Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9604,7 +10196,7 @@
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP62",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP62" ],
               "access_rules": [ "Boots, Omnikey, Tiearang, Blowtorch","Boots, Omnikey, Tiearang, Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9626,7 +10218,7 @@
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP63",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP63" ],
               "access_rules": [ "Boots, Omnikey, Tiearang, Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9646,7 +10238,7 @@
           {
               "name": "Omni-Key Room Before End of Level",
               "access_rules": [ "Boots, Omnikey, Tiearang, Blowtorch","Boots, Omnikey, Tiearang, Blackout" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/bolt.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9667,8 +10259,8 @@
               "name": "Vessup's Secret",
               "access_rules": [ "Shades, Blowtorch","Shades, Blackout" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9688,8 +10280,8 @@
               "name": "Adam's Secret",
               "access_rules": [ "Shades, Boots, Omnikey, Tiearang, Blowtorch","Shades, Boots, Omnikey, Tiearang, Blackout" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9709,8 +10301,8 @@
               "name": "Jeff's Secret",
               "access_rules": [ "Shades, Boots, Omnikey, Tiearang, Blowtorch","Shades, Boots, Omnikey, Tiearang, Blackout" ],
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/codes.png",
               "sections": [
                   {
                       "name": "Alien Code",
@@ -9892,7 +10484,7 @@
           {
               "name": "Skill Point: Perfect Chrome Finish",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP8" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -9913,7 +10505,7 @@
               "name": "Skill Point: Speed Demon",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP7",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP7" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10058,7 +10650,7 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP43",
                 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP43",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP43" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10079,7 +10671,7 @@
               "name": "Skill Point: Vault Vault",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP42",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP42" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10099,8 +10691,8 @@
           {
               "name": "During Vaultbreakers",
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/items/extra/BlueKey.png",
               "sections": [
                   {
                       "name": "Blue Keycard",
@@ -10199,7 +10791,7 @@
 
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP60",
                 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP60" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10267,7 +10859,7 @@
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP49",
 "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP49",
 "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP49" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10287,7 +10879,7 @@
           {
               "name": "Skill Point: Punchy",
               "visibility_rules": [ "SkillsEasy, RandomSkillsOff", "SkillsEasy, RandomSkillsOn, SP48","SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP48","SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP48" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10307,8 +10899,8 @@
           {
               "name": "Before Cannon Save (Jump off Edge)",
               "visibility_rules": [ "KeyCodeOn" ],
-              "chest_unopened_img": "images/Question.png",
               "chest_opened_img": "images/complete.png",
+              "chest_unopened_img": "images/items/extra/YellowKey.png",
               "sections": [
                   {
                       "name": "Yellow Keycard",
@@ -10373,7 +10965,7 @@
           {
               "name": "Skill Point: Pyrrhic Victory",
               "visibility_rules": [ "SkillsNorm, RandomSkillsOff", "SkillsNorm, RandomSkillsOn, SP3","SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP3" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10393,7 +10985,7 @@
           {
               "name": "Skill Point: Triple Platinum Record",
               "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP4" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
@@ -10479,7 +11071,7 @@
           {
                 "name": "Skill Point: Perfect Tango",
                 "visibility_rules": [ "SkillsOn, RandomSkillsOff", "SkillsOn, RandomSkillsOn, SP14" ],
-              "chest_unopened_img": "images/Question.png",
+              "chest_unopened_img": "images/skill.png",
               "chest_opened_img": "images/complete.png",
               "sections": [
                   {
